@@ -1,1 +1,20 @@
-
+[
+    {
+        "empid": 1001,
+        "name": "vijisha",
+        "email": "viji123@gmail.com",
+        "id": "23c2"
+    },
+    {
+        "empid": 1002,
+        "name": "sandra",
+        "email": "san423@gmail.com",
+        "id": "312c"
+    },
+    {
+        "empid": 1003,
+        "name": "vishnu",
+        "email": "vish456@gmail.com",
+        "id": "b77a"
+    }
+]
